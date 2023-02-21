@@ -12,7 +12,7 @@ int main(void)
 	int k;
 	int j;
 
-	for (C = 48; c <= 57; c++)
+	for (c = 48; c <= 57; c++)
 	{
 		for (i = 48; i <= 57; i++)
 		{
@@ -32,7 +32,7 @@ int main(void)
 						{
 							break;
 						}
-						else;
+						else
 						{
 							putchar(',');
 							putchar(' ');
@@ -45,3 +45,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+
