@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main -  print the lowercase alphabet in reverse
- * Return 0;
+ * Return: 0;
 */
 int main(void)
 {
